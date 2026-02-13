@@ -1,6 +1,6 @@
 import java.util.*;
 
-interface LoanService {
+interface LoanService {   
     void applyLoan(double amount);
 }
 
